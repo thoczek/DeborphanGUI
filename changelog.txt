@@ -1,0 +1,8 @@
+Release 0.2
+	-Rewriten code.
+	-New look and feel.
+	-Package list has been fixed.
+	-All new "Simple" view tab added.
+
+Release 0.1
+	-It just works.
